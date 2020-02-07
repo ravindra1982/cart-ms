@@ -1,0 +1,5 @@
+---
+nsname: mycart
+mylables:
+  app: myapp
+  tier: frontend
